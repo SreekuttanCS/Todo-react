@@ -1,0 +1,12 @@
+.addToDo input {
+  border: none;
+  color: green;
+  outline: none;
+  padding: 0.4rem;
+  
+}
+.addToDo button {
+  background: rgb(101, 101, 185);
+  border-radius:40px;
+  padding: 0.5rem;
+}
